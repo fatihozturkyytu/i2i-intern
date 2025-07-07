@@ -1,0 +1,5 @@
+com\example\swaggerex04\service\CustomerService.class
+com\example\swaggerex04\controller\CustomerController.class
+com\example\swaggerex04\SwaggerEx04Application.class
+com\example\swaggerex04\dto\CustomerDTO.class
+com\example\swaggerex04\repository\CustomerRepository.class
